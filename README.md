@@ -1,0 +1,2 @@
+Cinema frontend
+Angular version
